@@ -1,2 +1,2 @@
 # Cloudflare-Internship-Application
-Repository for the Cloudflare Internship Application challenge
+Repository for the Cloudflare Product Management Internship Application Exercise
